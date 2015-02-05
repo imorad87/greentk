@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/POI"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jodatime"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HibernateORM"/>
+	<classpathentry kind="lib" path="swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/javax.ejb-3.0.1.jar/javax.ejb-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/org-apache-commons-logging.jar/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/poi-3.10-FINAL/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/poi-3.10-FINAL/poi-ooxml-3.10-FINAL-20140208.jar" sourcepath="C:/Users/islam.morad/.m2/repository/org/apache/poi/poi-ooxml/3.10-FINAL/poi-ooxml-3.10-FINAL-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/poi-3.10-FINAL/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/poi-3.10-FINAL/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/poi-3.10-FINAL/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/poi-3.10-FINAL/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/islam.morad/Google Drive/GTCMS/Tools/poi-3.10-FINAL/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Log4J"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JWizard"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
